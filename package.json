@@ -28,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/w-package-json/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/w-package-json#readme"
+  "homepage": "https://github.com/IonicaBizau/w-package-json#readme",
+  "blah": {
+    "related": {
+      "ul": [
+        "[`r-package-json`](https://github.com/IonicaBizau/r-package-json)–Read package.json files."
+      ]
+    }
+  }
 }

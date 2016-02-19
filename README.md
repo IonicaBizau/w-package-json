@@ -18,6 +18,10 @@ writePack(__dirname, {
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## Related
+
+ - [`r-package-json`](https://github.com/IonicaBizau/r-package-json)–Read package.json files.
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
