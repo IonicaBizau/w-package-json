@@ -2,7 +2,7 @@
   "name": "w-package-json",
   "version": "1.0.0",
   "description": "Write package.json files.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "example": "example"
   },

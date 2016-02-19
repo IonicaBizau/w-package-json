@@ -2,6 +2,12 @@
 
 > Write package.json files.
 
+## Installation
+
+```sh
+$ npm i --save w-package-json
+```
+
 ## Example
 
 ```js
@@ -15,8 +21,20 @@ writePack(__dirname, {
 });
 ```
 
+## Documentation
+
+### `writePackageJson(dir, callback)`
+Writes the `package.json` content from the provided directory.
+
+#### Params
+- **String** `dir`: The path to the directory containing the `package.json` file.
+- **Function** `callback`: The callback function.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
+
+## Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
 
 ## Related
 
