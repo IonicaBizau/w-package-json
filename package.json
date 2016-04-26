@@ -1,6 +1,6 @@
 {
   "name": "w-package-json",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Write package.json files.",
   "main": "lib/index.js",
   "directories": {
@@ -36,5 +36,16 @@
         "[`r-package-json`](https://github.com/IonicaBizau/r-package-json)–Read package.json files."
       ]
     }
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
