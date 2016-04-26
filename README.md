@@ -1,14 +1,18 @@
+
 # w-package-json [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Downloads](https://img.shields.io/npm/dt/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Write package.json files.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save w-package-json
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const writePack = require("w-package-json");
@@ -21,7 +25,8 @@ writePack(__dirname, {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `writePackageJson(dir, callback)`
 Writes the `package.json` content from the provided directory.
@@ -30,17 +35,23 @@ Writes the `package.json` content from the provided directory.
 - **String** `dir`: The path to the directory containing the `package.json` file.
 - **Function** `callback`: The callback function.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## Related
+
+ - [`np-init`](https://github.com/IonicaBizau/np-init#readme)—Easily start a npm package from scratch.
+## :sparkles: Related
 
  - [`r-package-json`](https://github.com/IonicaBizau/r-package-json)–Read package.json files.
 
-## License
+
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
