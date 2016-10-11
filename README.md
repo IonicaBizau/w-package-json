@@ -1,5 +1,7 @@
 
-# w-package-json [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Downloads](https://img.shields.io/npm/dt/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# w-package-json
+
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Downloads](https://img.shields.io/npm/dt/w-package-json.svg)](https://www.npmjs.com/package/w-package-json) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Write package.json files.
 
@@ -40,14 +42,27 @@ Writes the `package.json` content from the provided directory.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
  - [`np-init`](https://github.com/IonicaBizau/np-init#readme)—Easily start a npm package from scratch.
+ - [`tester-init`](https://github.com/IonicaBizau/tester-init#readme)—Init tests for tester.
+ - [`tilda-init`](https://github.com/IonicaBizau/tilda-init#readme)—Init cli applications.
+
 ## :sparkles: Related
 
- - [`r-package-json`](https://github.com/IonicaBizau/r-package-json)–Read package.json files.
+ - [`r-package-json`](https://github.com/IonicaBizau/r-package-json#readme)—Read package.json files.
 
 
 
@@ -55,6 +70,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
