@@ -1,6 +1,6 @@
 {
   "name": "w-package-json",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Write package.json files.",
   "main": "lib/index.js",
   "directories": {
@@ -45,6 +45,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
